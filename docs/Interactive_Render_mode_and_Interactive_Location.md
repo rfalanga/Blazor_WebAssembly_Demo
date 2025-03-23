@@ -1,0 +1,3 @@
+Note that in this first part of this tutorial, in step 6, it says, "Next, specify the **Interactive render mode** and **Interactive location**". But it doesn't say what either of those should be, or make a suggestion as to what they might be. Due to the lack of instructions/suggestions at this point I've decided to go with what VS 2022 defaults are.
+
+I suppose it doesn't matter, for part 1 of this tutorial.
